@@ -20,7 +20,7 @@
 
   ## 📚 &nbsp;formação
 
-  - growdev em andamento
+  - Desenvolvedora full stack em formação na growdev
   - ensino medio completo
  
 

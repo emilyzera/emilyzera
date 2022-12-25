@@ -25,15 +25,7 @@
  
 
 </div>
-<div>
 
-  ## 📚 &nbsp;Experiências profissionais
-
-  - getnet-operadora de telemarketing
-  - sao joao- operadora financeira
- 
-
-</div>
 <h3>Linguagem de Programação favorita</h3>
 
   &emsp;
@@ -49,10 +41,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+  
 </p>
 
 <h3>O que estou estudando atualmente</h3>
@@ -79,10 +68,7 @@
   <a href="https://www.w3schools.com/raect/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+  
 </p>
 
 
